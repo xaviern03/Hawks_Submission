@@ -4,7 +4,7 @@ import pandas as pd
 def divider():
     print('----------------------', end='\n')
 
-draft_file = input('Enter file in format C:/Users/Username/etc. : \n')
+draft_file = input('Enter route to draft data file in format C:/Users/Username/etc. : \n')
 
 divider()
 
